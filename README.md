@@ -11,4 +11,4 @@ Security:
 
 Files:
 - "my_api_access.js" is a snippet of code for my chatbot hosted on my portfolio website that accesses my API on AWS.
-- "openai_api_access.py" is my AWS Lambda function that is connected to my AWS API, which calls the OpenAI API.
+- "openai_api_access.py" is my AWS Lambda function that is connected to my AWS API, which securely calls the OpenAI API.
